@@ -1,0 +1,28 @@
+.grid{
+    display: grid;
+    grid-template-columns: repeat(15, 30px);
+    grid-template-rows:  repeat(15, 30px);
+    border: 1px solid black;
+    gap: 1px;
+    padding: 2px;
+    width: 464px;
+    margin-left: 350px;
+    margin-top: 50px;
+    
+}
+.div1{
+    
+    background-color: orange;
+    border: 1px solid orange;
+
+}
+.div2{
+    background-color: peru;
+    border: 1px solid peru;
+
+}
+.div3{
+    background-color: rgb(179, 12, 40);
+    border: 1px solid rgb(179, 12, 40);
+
+}
